@@ -66,6 +66,7 @@ public:
         Collection()
             : proxyModel(0)
             , trackModel(0)
+            , currentTrack(0)
             , needsToBeFilled(true)
         {
         }
